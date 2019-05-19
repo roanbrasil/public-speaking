@@ -2,13 +2,13 @@
 
 The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
-*PS.: This is a great idea from a friend of mine, Rodrigo Moutinho [here] (https://github.com/rcmoutinho/public-speaking) and He copied from Elias Nogueira (I copied his idea [here](https://github.com/eliasnogueira/public-speaking))*
+*PS.: This is a great idea from a friend of mine, Rodrigo Moutinho (I copied his idea [here] (https://github.com/rcmoutinho/public-speaking))* and He copied from Elias Nogueira (I copied his idea [here](https://github.com/eliasnogueira/public-speaking))*
 
 # :brazil: Calendário de eventos, iniciativas e atividades
 
 O objetivo deste repositório é consolidar em um único lugar todas as minhas participações em conferências, meetups, atividades em comunidades e eventos em geral.
 
-*PS.: Essa é uma grande ideia de um amigo meu, Rodrigo Moutinho [here] (https://github.com/rcmoutinho/public-speaking) e ele copiou de Elias Nogueira (eu copiei a ideia dele [aqui](https://github.com/eliasnogueira/public-speaking))*
+*PS.: Essa é uma grande ideia de um amigo meu, Rodrigo Moutinho (Eu copiei dele [aqui] (https://github.com/rcmoutinho/public-speaking))* e ele copiou de Elias Nogueira (eu copiei a ideia dele [aqui](https://github.com/eliasnogueira/public-speaking))*
 
 # Questions?
 
